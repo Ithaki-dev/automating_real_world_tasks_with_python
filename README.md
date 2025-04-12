@@ -6,11 +6,10 @@
 This repository documents my certification in IT Automation with Python, showcasing the skills and projects I've completed to earn this credential.
 
 ## Certification Details
-- **Issuing Organization**: [Insert Organization Name]
+- **Issuing Organization**: Coursera
 - **Certification Name**: IT Automation with Python
-- **Date Earned**: [Month, Year]
-- **Certification ID**: [Your Certification ID] (if applicable)
-- **Verification Link**: [Link to verify your certification] (if available)
+- **Date Earned**: April 2025
+- **Verification Link**: [\[Link to verify your certification\]](https://www.credly.com/badges/63d75073-3f76-4616-ab2f-db6dd6185adb/linked_in_profile) (if available)
 
 ## Skills Demonstrated
 Through this certification program, I've demonstrated proficiency in:
@@ -29,9 +28,8 @@ Here are some of the practical projects I completed:
 
 1. **System Automation Tool** - Automated file organization and system maintenance tasks
 2. **Log File Analyzer** - Created a Python script to parse and analyze server logs
-3. **Network Automation Script** - Automated network device configurations
-4. **API Integration** - Built a tool to interact with cloud services APIs
-5. **Web Scraper** - Developed a data collection tool for information gathering
+3. **API Integration** - Built a tool to interact with cloud services APIs
+4. **Web Scraper** - Developed a data collection tool for information gathering
 
 ## Tools and Technologies
 - Python 3.x
@@ -45,6 +43,5 @@ Here are some of the practical projects I completed:
 ## How to Verify
 [Include instructions on how someone can verify your certification, such as:]
 You can verify this certification by:
-- Visiting [verification website] and entering certification ID [ID]
-- Checking my verified credential at [platform URL]
-- Contacting [issuing organization] directly
+- Visiting [[verification website](https://www.credly.com/users/robert-quesada-quesada)] and entering certification ID [ID]
+- Checking my verified credential at [[platform URL](https://www.linkedin.com/in/robert-quesada-b7a375215)]
